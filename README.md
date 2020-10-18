@@ -1,2 +1,2 @@
 # waifu
-club de fans de waifu
+https://verethragna1.github.io/waifu/WAIFU.html
