@@ -1,0 +1,61 @@
+header{
+    font-size: 300%;
+    text-align: center;
+    color:white;
+    padding: 50px;
+    background-color: red;
+    style
+    font-weight: bold;
+    font-style: italic;
+    margin-left:190px;
+    margin-right:220px;
+}
+html{
+    background: url(fondo2.png) no-repeat center fixed; 
+  background-size: cover;
+}
+
+.contenido{
+    font-size:30;
+    color: salmon;
+    width: 60%;
+    margin:20px auto;
+    margin-left: 18%;
+    text-align:justify;
+    background-color: wheat;
+}
+.contenido p{
+  margin-bottom: 16px;
+}
+
+
+.cagoentodo{
+    background-image: url(espadachina.jpg);
+    border: black;
+    color: black;
+    padding: 60px 20px;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: 400;
+    width: fit-content;
+    cursor: pointer;
+    background-size: contain;
+    position:relative;
+    margin-top: 0%;
+    left:40%;
+}
+.cagoentodo:hover{
+  color: white;
+}
+
+.boton{
+  display:none;
+	padding:20px;
+	background:black;
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
